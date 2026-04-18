@@ -1,13 +1,23 @@
-# skylv-openclaw-config-optimizer
+# Openclaw Config Optimizer
 
-openclaw config optimizer - OpenClaw Skill
+> openclaw config optimizer - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-openclaw-config-optimizer
 ```
 
-## Description
-An OpenClaw skill for openclaw config optimizer.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-openclaw-config-optimizer
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv

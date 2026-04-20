@@ -1,7 +1,7 @@
 ---
 name: openclaw-config-optimizer
 slug: skylv-openclaw-config-optimizer
-version: 1.0.0
+version: 1.0.2
 description: "OpenClaw Configuration Optimizer. Analyze and optimize OpenClaw config files for better performance and security. Triggers: optimize config, OpenClaw settings, config review, performance tuning, security hardening."
 author: SKY-lv
 license: MIT
